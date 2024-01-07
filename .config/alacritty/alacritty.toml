@@ -1,0 +1,22 @@
+[colors.primary]
+background = "#080808"
+foreground = "#ffffff"
+
+[font]
+size = 13
+
+[font.normal]
+family = "JetBrains Mono Nerd Font"
+style = "Bold"
+
+[[keyboard.bindings]]
+action = "SpawnNewInstance"
+key = "W"
+mods = "SUPER"
+
+[window]
+opacity = 1 
+
+[window.padding]
+x = 10
+y = 10

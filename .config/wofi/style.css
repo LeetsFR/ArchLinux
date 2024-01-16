@@ -10,7 +10,7 @@ window
 	font-size: 17px;
 	font-family:"JetBrains Mono Nerd Font";
 	font-weight: bold;
-	background-color: rgba(08, 08, 08, 255);
+	background-color: rgb(20, 20, 25);
 	color: #ffffff;
 }
 
@@ -21,7 +21,7 @@ window
 
 #entry:selected
 {
-	background: linear-gradient(90deg, #444776, #CB8C99);
+	background: linear-gradient(90deg, #444776, #7E9CD8);
 }
 
 #text:selected
@@ -31,7 +31,7 @@ window
 
 #input
 {
-	background-color: rgba(08, 08, 08, 255);
+	background-color: rgb(20, 20, 25);
 	color: #ffffff;
 	padding: 0.25em;
 }
@@ -40,4 +40,4 @@ image
 {
 	margin-left: .25em;
 	margin-right: .25em;
-	
+}
